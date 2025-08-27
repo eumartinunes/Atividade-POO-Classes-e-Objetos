@@ -1,3 +1,15 @@
+/*5) Crie um projeto chamado ProjetoCarro e construa nele a classe Carro, contendo os atributos: 
+• marca (String)
+ • modelo (String)
+ • ano (int)
+ A classe deve ter métodos para:
+ • Mostrar as informações do carro.
+ • Ligar o carro (exibir uma mensagem na tela).
+ Em seguida :
+ 1. Crie dois objetos da classe Carro.
+ 2. Altere os atributos de um dos objetos.
+ 3. Mostre os valores modificados na tela.
+ 4. Chame os métodos da classe usando o objeto.*/
 public class ProjetoCarro {
     public static void main(String[] args) {
 
@@ -30,4 +42,5 @@ public class ProjetoCarro {
         carro01.exibirInformacoesModificadas();
         carro01.ligarCarro();
     }   
+
 }
