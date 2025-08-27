@@ -1,3 +1,5 @@
+/*3) Crie um projeto chamado ProjetoAluno e construa nele a classe Aluno, 
+contendo os atributos:*/
 public class ProjetoAluno {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno();
@@ -41,3 +43,4 @@ public class ProjetoAluno {
         
     }
 }
+
